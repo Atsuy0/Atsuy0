@@ -1,6 +1,5 @@
 
 <h3 align="center">
-  Welcome to Atsuyo's profile!
   <img src="images/ats.png" align="right" />
 </h3>
 
