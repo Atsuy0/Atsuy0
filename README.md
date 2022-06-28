@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  <img src="images/ats.png" align="right" />
+  <img src="images/ats.png"/>
 </h3>
 
 I'm Hussain Abbas and I go by `hussainweb` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
