@@ -22,7 +22,6 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icon/vscode.png" /></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icon/phpstorm.png" /></a>
 <a href="https://golang.org/" title="Golang"><img src="icon/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icon/rust.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icon/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icon/flutter.png" /></a>
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icon/dotnet.png" /></a>
