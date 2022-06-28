@@ -3,7 +3,9 @@
   <img src="images/ats.png"/>
 </h3>
 
-Hi, I'm Atsuyo, I'm a **Full Stack Developer**. I have been working in **Cybersecurity** for 4 months now. On this Github I will post my scripts, software explanations, APIs. all this for FREE!
+Hi, I'm Atsuyo, I'm a **Full Stack Developer**. I have been working in **Cybersecurity** for 4 months now. On this Github I will post my scripts, software explanations, APIs. all this for **FREE**!
+
+You have questions? Contact me on Discord: ``Atsuyo#0386``
 
 ---
 
