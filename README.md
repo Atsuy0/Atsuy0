@@ -1,6 +1,5 @@
 
 <h3 align="center">
-  <img src="images/ats.png"/>
   <img src="images/standard.gif"/>
 </h3>
 
