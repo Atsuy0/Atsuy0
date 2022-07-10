@@ -1,6 +1,7 @@
 
 <h3 align="center">
   <img src="images/ats.png"/>
+  <img src="images/standard.gif"/>
 </h3>
 
 Hi, I'm Atsuyo, I'm a **Full Stack Developer**. I have been working in **Cybersecurity** for 6 months now. On this Github I will post my scripts, software explanations, APIs. all this for **FREE**!
