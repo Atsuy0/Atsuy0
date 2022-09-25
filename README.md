@@ -1,5 +1,4 @@
-# About Me 
-I'm Cool Developer 🤡
+
 
 - ``👥`` My nickname is: : **Atsuyo**
 - ``🧠`` I am a developer in : **Python, JavaScript, node.js, Django, HTML5, CSS3, PHP, SweetAlert, ChartJs and Firebase**
